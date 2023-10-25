@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.daon.customwidget_pra"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.daon.customwidget_pra"
